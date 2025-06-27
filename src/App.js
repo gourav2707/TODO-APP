@@ -53,7 +53,7 @@ function App(){
       <table className="table">
         <thead>
           <tr>
-            <th>S.no</th>
+            <th>S.No</th>
             <th>Title</th>
             <th>Date</th>
             <th>Priority</th>
